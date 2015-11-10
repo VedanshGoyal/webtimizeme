@@ -1,0 +1,509 @@
+[30-Dec-2013 17:06:15 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/webtimiz/public_html/scripts/mainscript.php on line 145
+[30-Dec-2013 17:07:49 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/webtimiz/public_html/scripts/mainscript.php on line 145
+[31-Dec-2013 13:40:29 UTC] PHP Fatal error:  Call to a member function clear() on a non-object in /home/webtimiz/public_html/scripts/is_canonical.php on line 30
+[31-Dec-2013 13:40:48 UTC] PHP Fatal error:  Call to a member function clear() on a non-object in /home/webtimiz/public_html/scripts/is_canonical.php on line 30
+[31-Dec-2013 13:40:55 UTC] PHP Fatal error:  Call to a member function clear() on a non-object in /home/webtimiz/public_html/scripts/is_canonical.php on line 30
+[31-Dec-2013 13:40:58 UTC] PHP Fatal error:  Call to a member function clear() on a non-object in /home/webtimiz/public_html/scripts/is_canonical.php on line 30
+[31-Dec-2013 14:09:51 UTC] PHP Fatal error:  Call to a member function clear() on a non-object in /home/webtimiz/public_html/scripts/is_canonical.php on line 30
+[31-Dec-2013 14:35:19 UTC] PHP Fatal error:  Call to a member function AddAttachment() on a non-object in /home/webtimiz/public_html/scripts/send_email.php on line 25
+[31-Dec-2013 14:36:41 UTC] PHP Fatal error:  Call to a member function AddAttachment() on a non-object in /home/webtimiz/public_html/scripts/send_email.php on line 25
+[31-Dec-2013 14:36:43 UTC] PHP Fatal error:  Call to a member function AddAttachment() on a non-object in /home/webtimiz/public_html/scripts/send_email.php on line 25
+[31-Dec-2013 14:37:09 UTC] PHP Fatal error:  Call to a member function AddAttachment() on a non-object in /home/webtimiz/public_html/scripts/send_email.php on line 25
+[31-Dec-2013 14:37:13 UTC] PHP Fatal error:  Call to a member function AddAttachment() on a non-object in /home/webtimiz/public_html/scripts/send_email.php on line 25
+[31-Dec-2013 14:37:39 UTC] PHP Fatal error:  Call to a member function AddAttachment() on a non-object in /home/webtimiz/public_html/scripts/send_email.php on line 25
+[31-Dec-2013 14:37:49 UTC] PHP Fatal error:  Call to a member function AddAttachment() on a non-object in /home/webtimiz/public_html/scripts/send_email.php on line 25
+[31-Dec-2013 14:37:50 UTC] PHP Fatal error:  Call to a member function AddAttachment() on a non-object in /home/webtimiz/public_html/scripts/send_email.php on line 25
+[31-Dec-2013 14:37:52 UTC] PHP Fatal error:  Call to a member function AddAttachment() on a non-object in /home/webtimiz/public_html/scripts/send_email.php on line 25
+[31-Dec-2013 14:39:36 UTC] PHP Fatal error:  Call to a member function AddAttachment() on a non-object in /home/webtimiz/public_html/scripts/send_email.php on line 25
+[31-Dec-2013 14:39:49 UTC] PHP Fatal error:  Call to a member function AddAttachment() on a non-object in /home/webtimiz/public_html/scripts/send_email.php on line 25
+[31-Dec-2013 14:40:30 UTC] PHP Fatal error:  Call to a member function AddAttachment() on a non-object in /home/webtimiz/public_html/scripts/send_email.php on line 25
+[31-Dec-2013 14:40:31 UTC] PHP Fatal error:  Call to a member function AddAttachment() on a non-object in /home/webtimiz/public_html/scripts/send_email.php on line 25
+[31-Dec-2013 14:49:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/webtimiz/public_html/scripts/send_email.php on line 34
+[31-Dec-2013 14:58:46 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/webtimiz/public_html/scripts/send_email.php on line 21
+[31-Dec-2013 15:51:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/webtimiz/public_html/scripts/send_email.php on line 22
+[31-Dec-2013 16:05:23 UTC] PHP Notice:  Undefined index: useremail in /home/webtimiz/public_html/scripts/mainscript.php on line 8
+[31-Dec-2013 16:05:23 UTC] PHP Notice:  Undefined index: username in /home/webtimiz/public_html/scripts/mainscript.php on line 9
+[31-Dec-2013 16:06:29 UTC] PHP Notice:  Undefined index: useremail in /home/webtimiz/public_html/scripts/mainscript.php on line 8
+[31-Dec-2013 16:06:29 UTC] PHP Notice:  Undefined index: username in /home/webtimiz/public_html/scripts/mainscript.php on line 9
+[31-Dec-2013 16:06:40 UTC] PHP Notice:  Undefined index: useremail in /home/webtimiz/public_html/scripts/mainscript.php on line 8
+[31-Dec-2013 16:06:40 UTC] PHP Notice:  Undefined index: username in /home/webtimiz/public_html/scripts/mainscript.php on line 9
+[31-Dec-2013 16:06:56 UTC] PHP Notice:  Undefined index: useremail in /home/webtimiz/public_html/scripts/mainscript.php on line 8
+[31-Dec-2013 16:06:56 UTC] PHP Notice:  Undefined index: username in /home/webtimiz/public_html/scripts/mainscript.php on line 9
+[31-Dec-2013 16:08:02 UTC] PHP Notice:  Undefined index: useremail in /home/webtimiz/public_html/scripts/mainscript.php on line 8
+[31-Dec-2013 16:08:02 UTC] PHP Notice:  Undefined index: username in /home/webtimiz/public_html/scripts/mainscript.php on line 9
+[31-Dec-2013 16:08:39 UTC] PHP Notice:  Undefined index: useremail in /home/webtimiz/public_html/scripts/mainscript.php on line 8
+[31-Dec-2013 16:08:39 UTC] PHP Notice:  Undefined index: username in /home/webtimiz/public_html/scripts/mainscript.php on line 9
+[31-Dec-2013 16:08:39 UTC] PHP Notice:  Undefined variable: email in /home/webtimiz/public_html/scripts/mainscript.php on line 1414
+[31-Dec-2013 16:08:39 UTC] PHP Notice:  Undefined variable: name in /home/webtimiz/public_html/scripts/mainscript.php on line 1414
+[31-Dec-2013 16:12:15 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 505
+[31-Dec-2013 16:12:15 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 505
+[31-Dec-2013 16:17:25 UTC] PHP Notice:  Undefined variable: keywords in /home/webtimiz/public_html/scripts/get_metaTags.php on line 47
+[31-Dec-2013 16:17:25 UTC] PHP Notice:  Undefined variable: description in /home/webtimiz/public_html/scripts/get_metaTags.php on line 48
+[31-Dec-2013 16:17:31 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[31-Dec-2013 16:17:31 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[31-Dec-2013 16:17:33 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[31-Dec-2013 16:17:33 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[31-Dec-2013 16:17:33 UTC] PHP Notice:  Undefined offset: 2 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[31-Dec-2013 16:18:17 UTC] PHP Notice:  Undefined variable: keywords in /home/webtimiz/public_html/scripts/get_metaTags.php on line 47
+[31-Dec-2013 16:18:17 UTC] PHP Notice:  Undefined variable: description in /home/webtimiz/public_html/scripts/get_metaTags.php on line 48
+[31-Dec-2013 16:18:22 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[31-Dec-2013 16:18:22 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[01-Jan-2014 14:09:38 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[01-Jan-2014 14:11:37 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/webtimiz/public_html/scripts/is_googleAuthorship.php on line 37
+[01-Jan-2014 16:15:36 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[01-Jan-2014 16:15:36 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[01-Jan-2014 16:19:36 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[01-Jan-2014 16:19:36 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[01-Jan-2014 16:19:36 UTC] PHP Notice:  Undefined offset: 2 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[01-Jan-2014 16:19:36 UTC] PHP Notice:  Undefined offset: 3 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[01-Jan-2014 16:19:36 UTC] PHP Notice:  Undefined offset: 4 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[01-Jan-2014 16:51:52 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[01-Jan-2014 16:51:52 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[03-Jan-2014 13:27:05 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[03-Jan-2014 13:31:59 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jan-2014 13:31:59 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jan-2014 13:31:59 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jan-2014 13:31:59 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jan-2014 13:31:59 UTC] PHP Warning:  file_get_contents(http://www.winshosting.com/templates/FastHosting/images/reseller-hosting-pakistan.jpg) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[03-Jan-2014 13:31:59 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jan-2014 13:31:59 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jan-2014 13:32:00 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jan-2014 13:32:00 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jan-2014 13:32:01 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jan-2014 13:32:01 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jan-2014 13:32:46 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[03-Jan-2014 13:32:46 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[03-Jan-2014 13:37:17 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jan-2014 13:37:17 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jan-2014 13:37:17 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jan-2014 13:37:17 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jan-2014 13:37:17 UTC] PHP Warning:  file_get_contents(http://www.winshosting.com/templates/FastHosting/images/reseller-hosting-pakistan.jpg) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[03-Jan-2014 13:37:18 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jan-2014 13:37:18 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jan-2014 13:37:18 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jan-2014 13:37:18 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jan-2014 13:37:18 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jan-2014 13:37:18 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[05-Jan-2014 10:55:24 UTC] PHP Notice:  Undefined variable: keywords in /home/webtimiz/public_html/scripts/get_metaTags.php on line 47
+[05-Jan-2014 10:57:02 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[05-Jan-2014 10:57:02 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[05-Jan-2014 10:57:02 UTC] PHP Notice:  Undefined offset: 2 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[05-Jan-2014 10:57:02 UTC] PHP Notice:  Undefined offset: 3 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[05-Jan-2014 10:57:02 UTC] PHP Notice:  Undefined offset: 4 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[05-Jan-2014 11:00:23 UTC] PHP Notice:  Undefined variable: keywords in /home/webtimiz/public_html/scripts/get_metaTags.php on line 47
+[05-Jan-2014 14:06:51 UTC] PHP Notice:  Undefined variable: keywords in /home/webtimiz/public_html/scripts/get_metaTags.php on line 47
+[05-Jan-2014 14:06:51 UTC] PHP Notice:  Undefined variable: description in /home/webtimiz/public_html/scripts/get_metaTags.php on line 48
+[05-Jan-2014 14:06:57 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[05-Jan-2014 14:06:57 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[05-Jan-2014 14:06:59 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[05-Jan-2014 14:06:59 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[05-Jan-2014 14:06:59 UTC] PHP Notice:  Undefined offset: 2 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[05-Jan-2014 14:08:00 UTC] PHP Notice:  Undefined variable: keywords in /home/webtimiz/public_html/scripts/get_metaTags.php on line 47
+[05-Jan-2014 14:08:00 UTC] PHP Notice:  Undefined variable: description in /home/webtimiz/public_html/scripts/get_metaTags.php on line 48
+[05-Jan-2014 14:08:12 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[05-Jan-2014 14:08:12 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[05-Jan-2014 15:05:18 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[05-Jan-2014 15:05:18 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[06-Jan-2014 16:57:48 UTC] PHP Notice:  Undefined offset: 2 in /home/webtimiz/public_html/scripts/mainscript.php on line 216
+[06-Jan-2014 16:57:48 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 229
+[06-Jan-2014 16:58:06 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[18-Jan-2014 09:37:23 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[18-Jan-2014 09:37:23 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[18-Jan-2014 09:37:23 UTC] PHP Notice:  Undefined offset: 2 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[18-Jan-2014 09:37:23 UTC] PHP Notice:  Undefined offset: 3 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[18-Jan-2014 09:37:23 UTC] PHP Notice:  Undefined offset: 4 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[18-Jan-2014 11:38:18 UTC] PHP Notice:  Undefined variable: keywords in /home/webtimiz/public_html/scripts/get_metaTags.php on line 47
+[18-Jan-2014 11:38:52 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[18-Jan-2014 11:38:52 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[18-Jan-2014 11:41:24 UTC] PHP Notice:  Undefined variable: keywords in /home/webtimiz/public_html/scripts/get_metaTags.php on line 47
+[18-Jan-2014 13:50:13 UTC] PHP Notice:  Undefined index: homepageurl in /home/webtimiz/public_html/scripts/mainscript.php on line 7
+[18-Jan-2014 13:50:13 UTC] PHP Notice:  Undefined index: useremail in /home/webtimiz/public_html/scripts/mainscript.php on line 8
+[18-Jan-2014 13:50:13 UTC] PHP Notice:  Undefined index: username in /home/webtimiz/public_html/scripts/mainscript.php on line 9
+[18-Jan-2014 13:50:13 UTC] PHP Notice:  Undefined index: host in /home/webtimiz/public_html/scripts/mainscript.php on line 12
+[18-Jan-2014 13:50:13 UTC] PHP Notice:  Undefined index: host in /home/webtimiz/public_html/scripts/get_internalLinks.php on line 14
+[18-Jan-2014 13:50:13 UTC] PHP Notice:  Undefined index: scheme in /home/webtimiz/public_html/scripts/get_internalLinks.php on line 15
+[18-Jan-2014 13:50:13 UTC] PHP Notice:  Undefined index: host in /home/webtimiz/public_html/scripts/get_internalLinks.php on line 15
+[18-Jan-2014 13:50:13 UTC] PHP Notice:  Undefined variable: internalLinks in /home/webtimiz/public_html/scripts/mainscript.php on line 95
+[18-Jan-2014 13:50:13 UTC] PHP Notice:  Undefined variable: internalLinks in /home/webtimiz/public_html/scripts/mainscript.php on line 102
+[18-Jan-2014 13:50:13 UTC] PHP Notice:  Undefined variable: internalLinks in /home/webtimiz/public_html/scripts/mainscript.php on line 113
+[18-Jan-2014 13:50:13 UTC] PHP Notice:  Undefined index: host in /home/webtimiz/public_html/scripts/mainscript.php on line 212
+[18-Jan-2014 13:50:15 UTC] PHP Notice:  Undefined offset: 2 in /home/webtimiz/public_html/scripts/mainscript.php on line 216
+[18-Jan-2014 13:50:15 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 229
+[18-Jan-2014 13:50:15 UTC] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[18-Jan-2014 13:50:15 UTC] PHP Fatal error:  Call to a member function clear() on a non-object in /home/webtimiz/public_html/scripts/is_canonical.php on line 30
+[18-Jan-2014 13:58:41 UTC] PHP Notice:  Undefined index: homepageurl in /home/webtimiz/public_html/scripts/mainscript.php on line 7
+[18-Jan-2014 13:58:41 UTC] PHP Notice:  Undefined index: useremail in /home/webtimiz/public_html/scripts/mainscript.php on line 8
+[18-Jan-2014 13:58:41 UTC] PHP Notice:  Undefined index: username in /home/webtimiz/public_html/scripts/mainscript.php on line 9
+[18-Jan-2014 13:58:41 UTC] PHP Notice:  Undefined index: host in /home/webtimiz/public_html/scripts/mainscript.php on line 12
+[18-Jan-2014 13:58:41 UTC] PHP Notice:  Undefined index: host in /home/webtimiz/public_html/scripts/get_internalLinks.php on line 14
+[18-Jan-2014 13:58:41 UTC] PHP Notice:  Undefined index: scheme in /home/webtimiz/public_html/scripts/get_internalLinks.php on line 15
+[18-Jan-2014 13:58:41 UTC] PHP Notice:  Undefined index: host in /home/webtimiz/public_html/scripts/get_internalLinks.php on line 15
+[18-Jan-2014 13:58:41 UTC] PHP Notice:  Undefined variable: internalLinks in /home/webtimiz/public_html/scripts/mainscript.php on line 95
+[18-Jan-2014 13:58:41 UTC] PHP Notice:  Undefined variable: internalLinks in /home/webtimiz/public_html/scripts/mainscript.php on line 102
+[18-Jan-2014 13:58:41 UTC] PHP Notice:  Undefined variable: internalLinks in /home/webtimiz/public_html/scripts/mainscript.php on line 113
+[18-Jan-2014 13:58:41 UTC] PHP Notice:  Undefined index: host in /home/webtimiz/public_html/scripts/mainscript.php on line 212
+[18-Jan-2014 13:58:42 UTC] PHP Notice:  Undefined offset: 2 in /home/webtimiz/public_html/scripts/mainscript.php on line 216
+[18-Jan-2014 13:58:42 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 229
+[18-Jan-2014 13:58:42 UTC] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[18-Jan-2014 13:58:42 UTC] PHP Fatal error:  Call to a member function clear() on a non-object in /home/webtimiz/public_html/scripts/is_canonical.php on line 30
+[18-Jan-2014 14:19:55 UTC] PHP Notice:  Undefined variable: keywords in /home/webtimiz/public_html/scripts/get_metaTags.php on line 47
+[18-Jan-2014 14:19:55 UTC] PHP Notice:  Undefined variable: description in /home/webtimiz/public_html/scripts/get_metaTags.php on line 48
+[18-Jan-2014 14:20:01 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[18-Jan-2014 14:20:01 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[18-Jan-2014 14:20:04 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[18-Jan-2014 14:20:04 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[18-Jan-2014 14:20:04 UTC] PHP Notice:  Undefined offset: 2 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[18-Jan-2014 14:21:37 UTC] PHP Notice:  Undefined variable: keywords in /home/webtimiz/public_html/scripts/get_metaTags.php on line 47
+[18-Jan-2014 14:21:37 UTC] PHP Notice:  Undefined variable: description in /home/webtimiz/public_html/scripts/get_metaTags.php on line 48
+[18-Jan-2014 14:21:43 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[18-Jan-2014 14:21:43 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[18-Jan-2014 14:26:37 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[18-Jan-2014 14:26:37 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[19-Jan-2014 09:30:31 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[19-Jan-2014 09:30:31 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[19-Jan-2014 10:57:20 UTC] PHP Notice:  Undefined variable: keywords in /home/webtimiz/public_html/scripts/get_metaTags.php on line 47
+[19-Jan-2014 10:57:20 UTC] PHP Notice:  Undefined variable: description in /home/webtimiz/public_html/scripts/get_metaTags.php on line 48
+[19-Jan-2014 10:57:26 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[19-Jan-2014 10:57:26 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[19-Jan-2014 10:57:29 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[19-Jan-2014 10:57:29 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[19-Jan-2014 10:57:29 UTC] PHP Notice:  Undefined offset: 2 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[19-Jan-2014 10:58:31 UTC] PHP Notice:  Undefined variable: keywords in /home/webtimiz/public_html/scripts/get_metaTags.php on line 47
+[19-Jan-2014 10:58:31 UTC] PHP Notice:  Undefined variable: description in /home/webtimiz/public_html/scripts/get_metaTags.php on line 48
+[19-Jan-2014 10:58:37 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[19-Jan-2014 10:58:37 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[19-Jan-2014 11:00:00 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[19-Jan-2014 11:00:00 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[19-Jan-2014 11:02:43 UTC] PHP Notice:  Undefined variable: keywords in /home/webtimiz/public_html/scripts/get_metaTags.php on line 47
+[19-Jan-2014 11:04:04 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[19-Jan-2014 11:04:04 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[19-Jan-2014 11:04:04 UTC] PHP Notice:  Undefined offset: 2 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[19-Jan-2014 11:04:04 UTC] PHP Notice:  Undefined offset: 3 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[19-Jan-2014 11:07:29 UTC] PHP Notice:  Undefined variable: keywords in /home/webtimiz/public_html/scripts/get_metaTags.php on line 47
+[28-Jan-2014 10:17:20 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/webtimiz/public_html/scripts/form-process.php on line 20
+[28-Jan-2014 10:19:45 UTC] PHP Warning:  file_get_contents(http://whomsy.com/api/web.mit.edu) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/webtimiz/public_html/scripts/get_urlExpiryDate.php on line 12
+[28-Jan-2014 10:19:45 UTC] PHP Notice:  Undefined variable: urlExpiryDate in /home/webtimiz/public_html/scripts/mainscript.php on line 216
+[28-Jan-2014 10:19:45 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 229
+[28-Jan-2014 10:19:48 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:19:49 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/engineering.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:19:49 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/science.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:19:49 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/management.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:19:49 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/architecture-and-planning.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:19:49 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/humanities-arts-and-social-sciences.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:19:50 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/campus.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:19:50 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/press/) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:19:51 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/login.html?articleId=19644&amp;amp;articleItemid=98) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:19:51 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/topic/economics.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:19:51 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/topic/research.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:19:52 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/topic/life-sciences.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:19:52 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/rss.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:19:52 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/contact.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:19:52 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/about.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:19:52 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/terms-of-use.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:19:54 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[28-Jan-2014 10:19:54 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[28-Jan-2014 10:19:54 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/../events/officialvisits.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:19:55 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/../events/tour.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:19:57 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/../events/index.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:20:03 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 10:20:03 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 10:20:03 UTC] PHP Notice:  Undefined offset: 2 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 10:20:03 UTC] PHP Notice:  Undefined offset: 3 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 10:20:03 UTC] PHP Notice:  Undefined offset: 4 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 10:20:03 UTC] PHP Notice:  Undefined offset: 5 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 10:20:03 UTC] PHP Notice:  Undefined offset: 6 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 10:20:03 UTC] PHP Notice:  Undefined offset: 7 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 10:20:03 UTC] PHP Notice:  Undefined offset: 8 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 10:20:03 UTC] PHP Notice:  Undefined offset: 9 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 10:20:03 UTC] PHP Notice:  Undefined offset: 10 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 10:20:03 UTC] PHP Notice:  Undefined offset: 11 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 10:20:50 UTC] PHP Warning:  file_get_contents(http://whomsy.com/api/www.redmondpie.com) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/webtimiz/public_html/scripts/get_urlExpiryDate.php on line 12
+[28-Jan-2014 10:20:50 UTC] PHP Notice:  Undefined variable: urlExpiryDate in /home/webtimiz/public_html/scripts/mainscript.php on line 216
+[28-Jan-2014 10:20:50 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 229
+[28-Jan-2014 10:20:50 UTC] PHP Notice:  Undefined variable: keywords in /home/webtimiz/public_html/scripts/get_metaTags.php on line 47
+[28-Jan-2014 10:21:06 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:21:06 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/engineering.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:21:06 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/science.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:21:07 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/management.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:21:07 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/architecture-and-planning.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:21:07 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/humanities-arts-and-social-sciences.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:21:07 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/campus.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:21:07 UTC] PHP Warning:  file_get_contents(http://www.redmondpie.com/webslice/ws-rplatest.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:21:07 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/press/) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:21:09 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/login.html?articleId=19644&amp;amp;articleItemid=98) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:21:09 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/topic/economics.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:21:09 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/topic/research.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:21:09 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/topic/life-sciences.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:21:10 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/rss.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:21:10 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/contact.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:21:10 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/about.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:21:10 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/newsoffice/2014/how-the-matthew-effect-helps-some-scientific-papers-gain-popularity-0127.html/newsoffice/terms-of-use.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:21:12 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[28-Jan-2014 10:21:12 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[28-Jan-2014 10:21:13 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/../events/officialvisits.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:21:13 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/../events/tour.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:21:14 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/../events/index.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:21:19 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 10:21:19 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 10:21:59 UTC] PHP Warning:  file_get_contents(http://whomsy.com/api/pakservers.com) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/webtimiz/public_html/scripts/get_urlExpiryDate.php on line 12
+[28-Jan-2014 10:21:59 UTC] PHP Notice:  Undefined variable: urlExpiryDate in /home/webtimiz/public_html/scripts/mainscript.php on line 216
+[28-Jan-2014 10:21:59 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 229
+[28-Jan-2014 10:22:03 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 10:22:03 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 10:24:41 UTC] PHP Notice:  Undefined variable: keywords in /home/webtimiz/public_html/scripts/get_metaTags.php on line 47
+[28-Jan-2014 10:24:56 UTC] PHP Warning:  file_get_contents(http://www.redmondpie.com/webslice/ws-rplatest.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 10:38:17 UTC] PHP Warning:  file_get_contents(http://whomsy.com/api/web.mit.edu) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/webtimiz/public_html/scripts/get_urlExpiryDate.php on line 16
+[28-Jan-2014 11:05:42 UTC] PHP Warning:  file_get_contents(http://whomsy.com/api/web.mit.edu) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/webtimiz/public_html/scripts/get_urlExpiryDate.php on line 16
+[28-Jan-2014 11:05:42 UTC] PHP Notice:  Undefined variable: urlExpiryDate in /home/webtimiz/public_html/scripts/mainscript.php on line 216
+[28-Jan-2014 11:05:42 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 229
+[28-Jan-2014 11:05:48 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[28-Jan-2014 11:05:48 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[28-Jan-2014 11:05:49 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/../events/officialvisits.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 11:05:50 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/../events/tour.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 11:05:51 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/../events/index.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 11:05:56 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 11:05:56 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 11:05:56 UTC] PHP Notice:  Undefined offset: 2 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 11:05:56 UTC] PHP Notice:  Undefined offset: 3 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 11:05:56 UTC] PHP Notice:  Undefined offset: 4 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 11:05:56 UTC] PHP Notice:  Undefined offset: 5 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 11:05:56 UTC] PHP Notice:  Undefined offset: 6 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 11:05:56 UTC] PHP Notice:  Undefined offset: 7 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 11:05:56 UTC] PHP Notice:  Undefined offset: 8 in /home/webtimiz/public_html/scripts/mainscript.php on line 502
+[28-Jan-2014 11:07:00 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[28-Jan-2014 11:07:00 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[28-Jan-2014 11:07:01 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/../events/officialvisits.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 11:07:01 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/../events/tour.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[28-Jan-2014 11:07:02 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/../events/index.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[29-Jan-2014 09:07:14 UTC] PHP Notice:  Undefined offset: 2 in /home/webtimiz/public_html/scripts/get_urlExpiryDate.php on line 50
+[29-Jan-2014 09:07:14 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_urlExpiryDate.php on line 51
+[29-Jan-2014 09:07:14 UTC] PHP Notice:  Undefined offset: 2 in /home/webtimiz/public_html/scripts/mainscript.php on line 230
+[29-Jan-2014 09:07:21 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[29-Jan-2014 09:07:21 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[29-Jan-2014 09:07:22 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/../events/officialvisits.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[29-Jan-2014 09:07:24 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/../events/tour.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[29-Jan-2014 09:07:26 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/../events/index.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[29-Jan-2014 09:07:31 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
+[29-Jan-2014 09:07:31 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
+[29-Jan-2014 09:07:31 UTC] PHP Notice:  Undefined offset: 2 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
+[29-Jan-2014 09:07:31 UTC] PHP Notice:  Undefined offset: 3 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
+[29-Jan-2014 09:07:31 UTC] PHP Notice:  Undefined offset: 4 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
+[29-Jan-2014 09:07:31 UTC] PHP Notice:  Undefined offset: 5 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
+[29-Jan-2014 09:07:31 UTC] PHP Notice:  Undefined offset: 6 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
+[29-Jan-2014 09:07:31 UTC] PHP Notice:  Undefined offset: 7 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
+[29-Jan-2014 09:07:31 UTC] PHP Notice:  Undefined offset: 8 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
+[29-Jan-2014 09:08:34 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[29-Jan-2014 09:08:34 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[29-Jan-2014 09:08:34 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/../events/officialvisits.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[29-Jan-2014 09:08:35 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/../events/tour.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[29-Jan-2014 09:08:37 UTC] PHP Warning:  file_get_contents(http://web.mit.edu/../events/index.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[01-Feb-2014 10:05:54 UTC] PHP Warning:  file_get_contents(http://whois.domaintools.com/web.mit.edu) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/webtimiz/public_html/scripts/get_urlExpiryDate.php on line 59
+[01-Feb-2014 10:06:24 UTC] PHP Warning:  file_get_contents(http://whois.domaintools.com/mit.edu) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/webtimiz/public_html/scripts/get_urlExpiryDate.php on line 59
+[01-Feb-2014 10:10:54 UTC] PHP Warning:  preg_match() [<a href='function.preg-match'>function.preg-match</a>]: Unknown modifier 'p' in /home/webtimiz/public_html/scripts/get_urlExpiryDate.php on line 79
+[02-Feb-2014 14:43:24 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
+[02-Feb-2014 14:43:24 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
+[10-Feb-2014 11:57:37 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_externalLinks.php on line 10
+[10-Feb-2014 11:57:37 UTC] PHP Notice:  Undefined index: host in /home/webtimiz/public_html/scripts/get_externalLinks.php on line 14
+[10-Feb-2014 15:10:57 UTC] PHP Notice:  Undefined variable: keywords in /home/webtimiz/public_html/scripts/get_metaTags.php on line 47
+[10-Feb-2014 15:11:35 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
+[10-Feb-2014 15:11:35 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
+[10-Feb-2014 15:11:35 UTC] PHP Notice:  Undefined offset: 2 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
+[10-Feb-2014 15:11:35 UTC] PHP Notice:  Undefined offset: 3 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
+[10-Feb-2014 15:11:43 UTC] PHP Warning:  file_get_contents(http://madetocrack.blogspot.com/p/privacy-policy.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 503 Service Unavailable
+ in /home/webtimiz/public_html/scripts/simple_html_dom.php on line 76
+[10-Feb-2014 15:11:43 UTC] PHP Fatal error:  Call to a member function clear() on a non-object in /home/webtimiz/public_html/scripts/get_externalLinks.php on line 70
+[22-May-2014 11:04:13 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
+[22-May-2014 11:04:13 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
+[21-Jun-2014 01:25:14 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
+[21-Jun-2014 01:26:14 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
+[03-Jul-2014 22:19:13 UTC] PHP Notice:  Undefined variable: keywords in /home/webtimiz/public_html/scripts/get_metaTags.php on line 47
+[03-Jul-2014 22:19:13 UTC] PHP Notice:  Undefined variable: description in /home/webtimiz/public_html/scripts/get_metaTags.php on line 48
+[03-Jul-2014 22:19:22 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:22 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:26 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:26 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:26 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:26 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:26 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:26 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:26 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:26 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:27 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:27 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:27 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:27 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:27 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:27 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:28 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:28 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:28 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:28 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:28 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:28 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:29 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:29 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:29 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:29 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:29 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:29 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:33 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:33 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:33 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:33 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:34 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:34 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:34 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:34 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:35 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:35 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:35 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:35 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:36 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:36 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:37 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:37 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:37 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:37 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:37 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:37 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:38 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:38 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:38 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:38 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:39 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:39 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:39 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:39 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:40 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:40 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:19:40 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
+[03-Jul-2014 22:21:19 UTC] PHP Notice:  Undefined variable: keywords in /home/webtimiz/public_html/scripts/get_metaTags.php on line 47
+[03-Jul-2014 22:21:19 UTC] PHP Notice:  Undefined variable: description in /home/webtimiz/public_html/scripts/get_metaTags.php on line 48
+[03-Jul-2014 22:21:28 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:28 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:32 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:32 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:32 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:32 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:33 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:33 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:33 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:33 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:33 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:33 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:34 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:34 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:34 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:34 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:34 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:34 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:35 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:35 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:35 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:35 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:35 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:35 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:35 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:35 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:36 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:36 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:39 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:39 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:40 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:40 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:40 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:40 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:41 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:41 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:41 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:41 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:42 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:42 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:42 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:42 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:43 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:43 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:43 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:43 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:43 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:43 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:44 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:44 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:45 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:45 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:45 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:45 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:45 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:45 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:46 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[03-Jul-2014 22:21:46 UTC] PHP Notice:  Trying to get property of non-object in /home/webtimiz/public_html/scripts/get_metaTags.php on line 29
+[14-Jul-2014 06:05:44 UTC] PHP Notice:  Undefined offset: 2 in /home/webtimiz/public_html/scripts/get_urlExpiryDate.php on line 52
+[14-Jul-2014 06:05:44 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/get_urlExpiryDate.php on line 53
+[14-Jul-2014 06:05:44 UTC] PHP Notice:  Undefined offset: 2 in /home/webtimiz/public_html/scripts/mainscript.php on line 230
+[14-Jul-2014 06:10:26 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
+[14-Jul-2014 06:10:26 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
+[11-Aug-2014 22:53:06 UTC] PHP Warning:  get_headers() [<a href='function.get-headers'>function.get-headers</a>]: This function may only be used against URLs in /home/webtimiz/public_html/scripts/form-process.php on line 19
+[17-Sep-2014 11:12:05 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
+[17-Sep-2014 11:12:06 UTC] PHP Notice:  Undefined offset: 1 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
+[17-Sep-2014 20:34:57 UTC] PHP Notice:  Undefined offset: 0 in /home/webtimiz/public_html/scripts/mainscript.php on line 503
